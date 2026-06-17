@@ -60,3 +60,4 @@ for result in ranked_list:
     print(f"Score: {result['score']:.2f}")
     print(f"Explanation: {result['explanation']}")
     print("-" * 40)
+# updated new version 1.1
